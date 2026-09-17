@@ -1,6 +1,6 @@
 # Federal Reserve Language and Market Corrections
 
-Research project for Applied Machine Learning at Baylor University. The study tests whether the language the Federal Reserve Chair uses in FOMC press conferences predicts short term S&P 500 movement.
+Research project for Analytics for Machine Learning at Baylor University. The study tests whether the language the Federal Reserve Chair uses in FOMC press conferences predicts short term S&P 500 movement.
 
 ## Data
 
